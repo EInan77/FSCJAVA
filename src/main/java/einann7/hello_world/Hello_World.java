@@ -7,7 +7,7 @@ package einann7.hello_world;
 
 /**
  *
- * @author belin
+ * @author Eren Inan
  */
 public class Hello_World {
 
